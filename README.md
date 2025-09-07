@@ -1,4 +1,4 @@
-w# 👩🏻‍💻 Derek Marques
+w# 🤖 Derek Marques
 
 **`Desenvolvedora FullStack`**
 
