@@ -1,8 +1,17 @@
-# 💻 Derek Marques
+# 💻 Olá, eu sou Derek Marques
 
 **`Desenvolvedor Backend`**
 
-Me chamo Derek Marques Almeida, tenho 20 anos e sou natural do Sergipe. Atualmente, estou cursando Ciência da Computação na UFS. Sou apaixonado por tecnolgia e por criar projetos do zero.
+Olá! Me chamo Derek Marques, estudante de Ciência da Computação na UFS e um entusiasta do desenvolvimento de software. Tenho um grande interesse em resolver problemas e construir soluções digitais do zero.
+
+🌱 **Projetos e Aprendizado Contínuo**
+Estou sempre trabalhando em algo novo! No momento, estou desenvolvendo um projeto Web desenvolvendo uma API com Node.js, Express e Postgresql para aplicar e aprofundar meus conhecimentos em backend. Você pode acompanhar meus projetos aqui no GitHub!
+
+📫 **Como me encontrar**
+* **Email:** derekmadev@gmail.com
+* **LinkedIn:** [Derek Marques](www.linkedin.com/in/marquesderek)
+
+> "A tecnologia é melhor quando une as pessoas." - Matt Mullenweg
 
 ---
 
@@ -64,7 +73,39 @@ Me chamo Derek Marques Almeida, tenho 20 anos e sou natural do Sergipe. Atualmen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NPM" 
+    title="Node Package Manager"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/> 
+<img 
+    align="left" 
+    alt="Express" 
+    title="Express"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"                
+/>
+          
 <br/>
 <br/>
 
