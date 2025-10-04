@@ -113,7 +113,7 @@ Estou sempre trabalhando em algo novo! No momento, estou desenvolvendo um projet
 
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -121,7 +121,7 @@ Estou sempre trabalhando em algo novo! No momento, estou desenvolvendo um projet
   />
 
 <img 
-      align="right" 
+      align="center" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerekMA15&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
