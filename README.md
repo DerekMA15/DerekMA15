@@ -10,6 +10,7 @@ Estou sempre trabalhando em algo novo! No momento, estou desenvolvendo um projet
 📫 **Como me encontrar**
 * **Email:** derekmadev@gmail.com
 * **LinkedIn:** [Derek Marques](www.linkedin.com/in/marquesderek)
+* **Portifólio:** https://derekma15.github.io/Portifolio-Derek_Marques/
 
 > "A tecnologia é melhor quando une as pessoas." - Matt Mullenweg
 
@@ -104,7 +105,7 @@ Estou sempre trabalhando em algo novo! No momento, estou desenvolvendo um projet
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<!--### 📊 Estatísticas
 
 <p>
   <img 
@@ -123,3 +124,4 @@ Estou sempre trabalhando em algo novo! No momento, estou desenvolvendo um projet
   />
 
 </p>
+--> 
