@@ -21,22 +21,6 @@ Estou sempre trabalhando em algo novo! No momento, estou desenvolvendo um projet
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Java"
     title="Java" 
     width="30px" 
@@ -71,11 +55,11 @@ Estou sempre trabalhando em algo novo! No momento, estou desenvolvendo um projet
 />
 <img 
     align="left" 
-    alt="Node.js" 
-    title="Node.js"
+    alt="Docker" 
+    title="Docker"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 <img 
     align="left" 
@@ -93,14 +77,6 @@ Estou sempre trabalhando em algo novo! No momento, estou desenvolvendo um projet
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 /> 
-<img 
-    align="left" 
-    alt="Express" 
-    title="Express"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"                
-/>
           
 <br/>
 <br/>
